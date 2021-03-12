@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @akn001
+- 👋 Hi, I’m @akn001 [Akshaykumar Nayee]
 - 👀 I’m interested in Python , javascript , laravel
 - 🌱 I’m currently learning laravel and Js
 - 💞️ I’m looking to collaborate on Laravel
-- 📫 How to reach me - akshaynayee1@gmail.com
+- 📫 How to reach me - akshaynayee1@gmail.com, ak4917620.ak@gmail.com
 
 <!---
 akn001/akn001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
